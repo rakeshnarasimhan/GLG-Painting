@@ -1,1 +1,1 @@
-# GLGP-ainting
+# GLG-Painting
